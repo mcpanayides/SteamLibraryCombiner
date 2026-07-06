@@ -1,4 +1,4 @@
-# 🎮 GameAggregator
+# 🎮 SteamLibraryCombiner
 
 > One Steam library to rule them all.
 
